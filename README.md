@@ -1,5 +1,5 @@
 # PlaningItByEarDataset
-This project present the dataset used in our article Planing it by ear: Convolutional neural networks for acoustic anomaly detection in industrial wood planers submitted to ICASSP 2025.
+This project present the dataset used in our article Planing it by ear: Convolutional neural networks for acoustic anomaly detection in industrial wood planers submitted to ICASSP 2025. Note that in the article no seeds were set, so the results might be different from the published results. To ensure better reproducibility we set the seeds in this repository.
 
 # Installation
 - Simply clone the project and install the package in the requirements.txt. The experiments where conducted with python 3.10.
