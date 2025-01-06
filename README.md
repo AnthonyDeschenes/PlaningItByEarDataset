@@ -20,6 +20,8 @@ Run on the evaluation dataset
 
 # Citation
 TODO: Update when the article will be online.
+
+```
 @inproceedings{deschenesplaning2025,
   title={Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers},
   author={Deschênes, Anthony and Georges, Rémi and Subakan, Cem and Ugulino, Bruna and Henry, Antoine and Morin, Michael},
@@ -27,3 +29,4 @@ TODO: Update when the article will be online.
   year={2025},
   organization={IEEE}
 }
+```
