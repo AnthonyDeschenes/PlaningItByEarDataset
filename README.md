@@ -1,13 +1,12 @@
 # PlaningItByEarDataset
-This project present the dataset used in our article Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers submitted to ICASSP 2025. Note that in the article no seeds were set, so the results might be different from the published results. To ensure better reproducibility we set the seeds in this repository.
+This project present the dataset used in our article Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers accepted to ICASSP 2025. Note that in the article no seeds were set, so the results might be different from the published results. To ensure better reproducibility we set the seeds in this repository.
 
 # Installation
 - Simply clone the project and install the package in the requirements.txt. The experiments where conducted with python 3.10.
 - Unzip the data.zip file. The data folder should be on the same level as the models and trainer repositories.
 
 # Requirements
-- 16GB of RAM
-- Intel Core i7
+- Install the packages in the requirements.txt
 
 # Run
 Run the file train_and_evaluate.py
