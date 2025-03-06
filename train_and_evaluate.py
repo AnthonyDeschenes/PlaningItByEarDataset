@@ -73,7 +73,7 @@ else:
 d_anomalies = CustomDataset([
     "data/evaluation/anomalies/broken_board/",
     "data/evaluation/anomalies/board_stuck/",
-    "data/evaluation/anomalies/uneven_thick_wood/",
+    "data/evaluation/anomalies/Uneven_thick_wood/",
 ])
 
 print(len(d))
