@@ -24,7 +24,7 @@ TODO: Update when the article will be online.
 @inproceedings{deschenesplaning2025,
   title={Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers},
   author={Deschênes, Anthony and Georges, Rémi and Subakan, Cem and Ugulino, Bruna and Henry, Antoine and Morin, Michael},
-  booktitle={2026 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSP)},
+  booktitle={2025 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSP)},
   year={2025},
   organization={IEEE}
 }
